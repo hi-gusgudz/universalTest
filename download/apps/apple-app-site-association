@@ -6,7 +6,7 @@
         "appID": "4D447S9D9D.com.hanasec.pro.fulllog",
         "paths": [
           "/download/apps/*",
-          "*"
+          "*" 
         ]
       }
     ]
